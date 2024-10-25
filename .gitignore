@@ -1,2 +1,4 @@
 public/
 content/covers
+.DS_Store
+storage
