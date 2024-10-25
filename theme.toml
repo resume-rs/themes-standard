@@ -1,0 +1,12 @@
+name = "standard"
+description = "A resume standard theme"
+license = "MIT"
+homepage = "https://github.com/resume-rs/theme-standard"
+min_version = "0.17.0"
+demo = "https://aa.resume.rs"
+
+[extra]
+
+[author]
+name = "Anibal Aguila"
+homepage = "https://aa.resume.rs"
