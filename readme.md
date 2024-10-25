@@ -5,9 +5,9 @@
 
 ## Features
 
-- [x] Linkedin Mirror
 - [x] Clean and Clear 
 - [x] Always Updated
+- [ ] Linkedin Mirror
 
 ## Installation:
 
@@ -27,11 +27,6 @@ git submodule add https://github.com/resume-rs/themes-standard themes/standard
 # Add the following to the top of your `config.toml`
 
 theme = "standard"
-taxonomies = [{ name = "tags" }]
-
-[extra]
-theme = "standard"
-
 
 ```
 
