@@ -76,5 +76,8 @@ jobs:
 EOF
 
 
-
+# ---  Create a CNAME record for DNS resolution
+cat << 'EOF' > static/CNAME
+aa.resume.rs
+EOF
 ```
