@@ -80,4 +80,10 @@ EOF
 cat << 'EOF' > static/CNAME
 aa.resume.rs
 EOF
+
+git add .
+git commit -m 'first commit ~~'
+git remote add github git@github.com:anibal-aguila/resume.git
+
+
 ```
