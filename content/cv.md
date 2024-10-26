@@ -2,51 +2,51 @@
 
 +++
 
+# ANIBAL AGUILA
 
-# Curriculum Vitae
-
-### Max Voskob
-##### Full Stack Engineer, Product Leader, Solution Architect
-###### Auckland, New Zealand, GMT+12
+### 
+##### Hybrid Cloud & PaaS Engineer | OCP & Kubernetes Expert
+##### Driving Digital Transformation in Aerospace & Banking
+###### PLM, IoT, and Event-Driven Architectures
 
 ## Quick overview
 
 #### Core technology stack
-
-* Rust, TypeScript, SQL, WASM 
-* Postgres, ElasticSearch, DynamoDB
-* VueJS, GraphQL, Apollo, TailwindCSS, HTML/CSS
-* Linux, AWS, Azure, Windows
+* Kubernetes, OpenShift, Apache Kafka
+* Azure, Terraform, Ansible, Longhorn
+* Crossplane, Jenkins, ArgoCD, GitLab
+* Linux, Windows, Keycloak, Kubevirt
+* Traefik, HAproxy, Nginx, MetalLB
+* FreeIPA, Minio, Podman, Docker
 
 #### Work experience
-* 20+ years of hands-on programming
-* 13 years as a company co-founder, product leader and full-stack developer
-* 5 years of IT consulting for government and corporate clients
+* 8+ years in cloud engineering and IT infrastructure management
+* 5+ years of hands-on experience with Kubernetes and OpenShift
+* 3+ years leading cloud transformation projects in aerospace and banking
+* Extensive expertise in event-driven architectures, PaaS, and hybrid-cloud environments
+* Proven track record of automating cloud operations using Ansible, Terraform, and Jenkins
+* Experienced in managing cross-functional teams and delivering projects in Agile environments
+
 
 #### Domains of expertise
-* Early-stage projects, startups and scale-ups
-* Cloud computing, APIs, web applications
-* Product leadership and solution architecture (AWS certified)
-* Technical writing
+* Cloud infrastructure, hybrid-cloud environments, and event-driven architectures
+* DevOps, Kubernetes/Openshift platforms, and automation (Ansible, Terraform)
+* Digital transformation, aerospace and banking solutions, and secure cloud operations
 
 #### Work ethic
-
 * Happy working in distributed teams or solo
-* Result-orientated
-* Git, workflow and documentation discipline
+* Result-oriented
+* Git, workflow, and documentation discipline
 * User and fellow developer empathy
 
-#### Open Source
-
-* Maintainer of [AWS Lambda remote debugger](https://github.com/rimutaka/lambda-debugger-runtime-emulator)
-* Co-maintainer of [quickxml_to_serde](https://github.com/AlecTroemel/quickxml_to_serde) crate and [tachograph-reader](https://github.com/jugglingcats/tachograph-reader) C# app
-* Contributor to [AWS Lambda Rust runtime](https://github.com/awslabs/aws-lambda-rust-runtime) and other projects
-* Technical writing and tutorials: [https://dev.to/rimutaka](https://dev.to/rimutaka)
-* Web browser addons and other FOSS projects: [https://github.com/rimutaka](https://github.com/rimutaka)
+---
 
 ## Technical skills in detail
 
 My main skill is in solving problems. I take both, a high-level view of the product and a close-up view of the technical details.
+
+* **hybrid cloud | container & orchestration**: azure, vmware, openshift, kubernetes, docker/derivatives. 
+* **programming & scripting**: python, bash, rust
 
 * **Solution architecture:** system design, integration, micro-services, rapid prototyping
 * **Product leadership:** ideation, prototyping, customer research 
