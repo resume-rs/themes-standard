@@ -59,14 +59,13 @@ body::-webkit-scrollbar {
 
   h2 {
     font-size: 1.3em;
-    padding-top: 80px;
-    margin-top: -45px;
+    color: #696c66a1;
+    border-bottom: 2px solid #c0bebe;
+    width: 100%; // Ensure h2 takes the full width
   }
 
   h3 {
     font-size: 1.1em;
-    padding-top: 65px;
-    margin-top: -45px;
   }
 
   h4 {
@@ -84,7 +83,7 @@ body::-webkit-scrollbar {
     }
   }
 
-  h1, h2, h3, h4, h5, h6 {
+  h1, h3, h4, h5, h6 {
     width: fit-content;
     &:hover a.zola-anchor {
       visibility: visible !important;
@@ -134,11 +133,12 @@ body::-webkit-scrollbar {
 
   ol,
   ul {
-    padding-left: 1.5em;
+    margin-bottom: 1rem;
+    margin-top: -9px;
   }
 
   li {
-    margin: 1em 0;
+    margin: 0.2em 0;
   }
 
   li::marker {
@@ -592,15 +592,16 @@ body.homepage {
     #text {
       display: flex;
       flex-direction: column;
-      justify-content: space-around;
-      line-height: 1.5;
+      justify-content: center;
+      line-height: 1.6;
     }
 
-    #name, #id {
-      font-size: 1.1em;
+    #name {
+      font-size: 2.1em;
     }
 
     #id {
+      font-size: 1.1em;
       margin-left: 0.5em;
       color: var(--primary-color);
     }

@@ -1,15 +1,15 @@
-# serene v4.3.0
+# standard v0.0.1
 #
-# - docs: https://github.com/isunjn/serene/blob/latest/USAGE.md
-# - check for updates: https://github.com/isunjn/serene/releases
+# - docs: https://github.com/resume-rs/themes-standard/blob/latest/USAGE.md
+# - check for updates: https://github.com/resume-rs/themes-standard/releases
 #
 #=========================================================================================
 
-base_url = "https://example.com"      # Domain name of your website
-title = "xxxx"
-description = "xxxx xxxx xxxx"
+base_url = "https://resume.rs"      # Domain name of your website
+title = "RESUME"
+description = "Summarizing professional background, skills, and qualifications."
 default_language = "en"
-theme = "serene"
+theme = "standard"
 output_dir = "public"
 compile_sass = true
 minify_html = true
@@ -41,26 +41,27 @@ anchors = "on"
 
 [extra]
 
-name = "xxxx"                         # Your name
-id = "xxxx"                           # Your id / username / handle
-bio = "xxxx"                          # Your bio
-avatar = "img/avatar.webp"            # Your avatar
-links = [                             # Your links
-    { name = "GitHub", icon = "github", url = "https://github.com/<your-username>" },
-    { name = "Twitter", icon = "twitter", url = "https://twitter.com/<your-username>" },
-    { name = "Email", icon = "email", url = "mailto:<your-email-address>" },
+name = "ANIBAL AGUILA"                      # Your name
+id = "anibal-aguila"                        # Your id / username / handle
+bio = "Digital Transformation Consultant"   # Your bio
+avatar = "img/avatar.webp"                  # Your avatar
+links = [                                   # Your links
+    { name = "GitHub", icon = "github", url = "https://github.com/anibal-aguila" },
+    { name = "Twitter", icon = "twitter", url = "https://twitter.com/anibal-aguila" },
+    { name = "Email", icon = "email", url = "mailto:aa@resume.rs" },
+    { name = "Linkedin", icon = "linkedin", url = "https://www.linkedin.com/in/anibal-aguila/" },
 ]
 
 homepage_layout = "about"             # "about" | "list" | "recent"
-force_theme = false                   # false | "light" | "dark"
+force_theme = "light"                 # false | "light" | "dark"
 
 recent_max = 15
 recent_more = true
 recent_more_text = "more »"
 
 sections = [
-    { name = "blog", path = "/blog", is_external = false },
-    { name = "projects", path = "/projects", is_external = false },
+    # { name = "blog", path = "/blog", is_external = false },
+    # { name = "projects", path = "/projects", is_external = false },
     # { name = "about", path = "/about", is_external = false },
     # { name = "github", path = "https://github.com/<your-username>", is_external = true },
 ]
@@ -87,7 +88,7 @@ outdate_alert_days = 120              # How many days will a post be outdated by
 outdate_alert_text_before = "This article was last updated "
 outdate_alert_text_after = " days ago and may be out of date."
 
-footer_copyright = "© 2023 <your-name>"
+footer_copyright = "© 2024 <your-name>"
 footer_credits = true                 # Whether to show "powered by zola and serene" in footer
 
 not_found_title = "404"
