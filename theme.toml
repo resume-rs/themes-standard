@@ -1,12 +1,12 @@
-name = "serene"
-description = "A blog theme for zola, simple and clean"
+name = "standard"
+description = "A standardized resume theme."
 license = "MIT"
-homepage = "https://github.com/isunjn/serene"
+homepage = "https://github.com/resume-rs/themes-standard"
 min_version = "0.19.0"
-demo = "https://serene-demo.pages.dev"
+demo = "https://aa.resume.rs"
 
 [author]
-name = "isunjn"
-homepage = "https://github.com/isunjn"
+name = "Anibal Aguila"
+homepage = "https://github.com/anibal-aguila"
 
 [extra]
