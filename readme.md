@@ -92,3 +92,10 @@ git push github main
 
 
 ```
+
+ref: This project is based and inspired in the following projects:
+
+https://github.com/isunjn/serene
+https://github.com/rimutaka/cv.git
+https://github.com/thedataquarry/thedataquarry.github.io
+
