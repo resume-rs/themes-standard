@@ -129,6 +129,10 @@ body::-webkit-scrollbar {
     padding-left: 16px;
     margin: 1em 0;
     color: var(--text-pale-color);
+    line-height: 1.2; // Adjust line height as needed
+    font-size: 1em; // Adjust font size to fit better
+    white-space: pre-wrap; // Allows line breaks only at spaces
+    word-wrap: break-word; // Ensures long words wrap to avoid overflow
   }
 
   ol,
