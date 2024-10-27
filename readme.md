@@ -3,6 +3,8 @@
 > A resume standard theme powered by [Zola](https://getzola.org).
 >> See a live preview [here](https://aa.resume.rs).
 
+![Standard theme for zola](./screenshot.png "Standard")
+
 ## Features
 
 - [x] Clean and Clear 
